@@ -1,10 +1,13 @@
-# salve
+# Salve
 
-## Abstract 
-Salve is a virtual support group for rape victims. It allows you to talk to other victims and survivors that experience the same after effects.
+## Abstract and Objectives
+Salve is a virtual support group for rape victims. It allows you to talk to other victims and survivors that experience the same after effects. The problem that we recognised is that rape is a taboo subject and that no one can really understand what it means to go through it, unless they themselves have gone through it. So we created an environment where you could feel safe with the people that couldn’t  judge you as they more than anyone - can empathise.
 
-## Objectives 
-Rape victims experience an array of symptoms ranging from Panic Attacks to Hyoer Sexuality.
+#### Working 
+When you log on to the interface of salve you will can click a button that will lead to a form. It will ask you for the name you want to use in the chat room as well as show you a vareity of options of things that rape vitims might experience in the aftermath of the incident. Once you select your experience you will be redirected to the chat room of individuals that went through the same things or are dealing with the same things. 
+
+You can feel safe and talk about anything you wish to chare in these chatrooms. Please be respectful and considerate to not harm anyone else, as all of you are there for the same purpose - to heal.
+
 
 ## Technology Used 
 - Django Channels 
